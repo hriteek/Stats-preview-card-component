@@ -126,7 +126,7 @@ section {
 
 @media screen and (min-width: 90em) {
   section {
-    width: 85%;
+    width: min(var(--break-desktop), 80%);
     display: flex;
     flex-direction: row-reverse;
   }
