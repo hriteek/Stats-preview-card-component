@@ -59,7 +59,7 @@ p{
   color: var(--clr-white-transparent-300);
 }
 
-h3 + p {
+h2 + p {
   text-transform: uppercase;
 }
 
